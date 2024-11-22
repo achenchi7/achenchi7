@@ -1,5 +1,5 @@
 ## Hi there, I am Achenchi👋 
- 🌱I am currently learning to build secure and scalable solutions on AWS<br>☁️ I am currently working on the [Cloud Resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/).<br>
+ 🌱I am currently learning to build secure and scalable solutions on AWS<br>
 
 
 ### Socials 🌐

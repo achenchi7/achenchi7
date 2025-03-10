@@ -1,17 +1,60 @@
-## Hi there, I am Achenchi👋 
- 🌱I am currently learning to build secure and scalable solutions on AWS<br>
 
 
-### Socials 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jullyachenchi) 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=48&center=true&vCenter=true&width=500&height=70&color=9c2717&duration=4000&lines=Hi+There!+👋;+I'm+Jully+Achenchi!;" />
+</h1>
 
-### Tools of trade ⚙️ 
+## Cloud/DevOps Engineer | Tech Community Builder
+I don’t just learn—I build, break, and rebuild until I get it right. While I do so, I document my cloud journey and create spaces where others can learn with me. If it’s AWS, Terraform, or a challenge worth tackling, I’m in.
+
+**🎯Current Focus**
+- [Linux](https://linuxupskillchallenge.org) and bash scripting for better automation and systems management<br>
+- Containerization using Docker and container orchestration using Kubernetes
+- Community growth. I am the Co-organizer at the [AWS AI/ML User Group Kenya](https://www.linkedin.com/company/aws-ai-ml-kenya/?viewAsMember=true).
+
+**⚡What Drives Me**
+- Making Cloud Less Cloudy ☁️ – Simplifying AWS concepts through hands-on practice & writing.
+- Building for Real Impact 💡 – Turning ideas into projects and projects into solutions.
+- Sharing & Growing Together 🚀 – Creating spaces where learning is collaborative and engaging
+
+ <br>
+
+<div align="center">
+  <a href="jullyachenchi8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/jully-achenchi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://medium.com/@jullyachenchi8" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+## Tools of trade ⚙️ 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
 
+
+## ⚡️ Stats
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=achenchi7&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Achenchi's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=achenchi7&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Achenchi's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=achenchi7&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Achenchi's Most Used Languages" />
+</div>
+
+<hr>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=achenchi7&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/achenchi7/count.svg" alt="Visitor's Count" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 

@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=48&center=true&vCenter=true&width=500&height=70&color=9c2717&duration=4000&lines=Hi+There!+👋;+I'm+Jully+Achenchi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=48&center=true&vCenter=true&width=500&height=70&color=9c2717&duration=4000&font-weight=700&lines=Hi+There!+👋;+I'm+Jully+Achenchi!;" />
 </h1>
 
 ## Cloud/DevOps Engineer | Tech Community Builder
@@ -47,6 +47,10 @@ I don’t just learn—I build, break, and rebuild until I get it right. While I
 </div>
 
 <hr>
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=achenchi7&icon=0&color=0)](https://visitcount.itsvg.in)

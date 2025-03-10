@@ -1,10 +1,10 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=48&center=true&vCenter=true&width=500&height=70&color=9c2717&duration=4000&font-weight=700&lines=Hi+There!+👋;+I'm+Jully+Achenchi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Knewave&size=48&center=true&vCenter=true&width=500&height=70&color=0f55bd&duration=4000&font-weight=900&lines=Hi+There!+👋;+I'm+Jully+Achenchi+😁!;" />
 </h1>
 
-## Cloud/DevOps Engineer | Tech Community Builder
+## 👩🏽‍💻Cloud/DevOps Engineer | 👷🏽‍♀️Tech Community Builder
 I don’t just learn—I build, break, and rebuild until I get it right. While I do so, I document my cloud journey and create spaces where others can learn with me. If it’s AWS, Terraform, or a challenge worth tackling, I’m in.
 
 **🎯Current Focus**
@@ -48,7 +48,7 @@ I don’t just learn—I build, break, and rebuild until I get it right. While I
 
 <hr>
 
-## 📕 Latest Blog Posts
+## ✍🏽 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Step-by-Step Guide: Deploy a Scalable 3-Tier Architecture on AWS with Terraform Modules.](https://awstip.com/how-to-deploy-a-highly-available-3-tier-architecture-in-aws-using-terraform-8ac25fe3910b?source=rss-7a6e9f200238------2)
 - [How to use multiple AWS providers in Terraform.](https://medium.com/@jullyachenchi8/how-to-use-multiple-aws-providers-in-terraform-f982a2f89160?source=rss-7a6e9f200238------2)

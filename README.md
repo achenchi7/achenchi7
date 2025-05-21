@@ -57,11 +57,11 @@ See all my Certifications here: [Credly](https://www.credly.com/users/jully-ache
 
 ## ✍🏽 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure access to a Linux instance via SSH client — WSL](https://medium.com/@jullyachenchi8/secure-access-to-a-linux-instance-via-ssh-client-wsl-16b87e4523db?source=rss-7a6e9f200238------2)
 - [Step-by-Step Guide: Deploy a Scalable 3-Tier Architecture on AWS with Terraform Modules.](https://awstip.com/how-to-deploy-a-highly-available-3-tier-architecture-in-aws-using-terraform-8ac25fe3910b?source=rss-7a6e9f200238------2)
 - [How to use multiple AWS providers in Terraform.](https://medium.com/@jullyachenchi8/how-to-use-multiple-aws-providers-in-terraform-f982a2f89160?source=rss-7a6e9f200238------2)
 - [Managing secrets with Terraform](https://awstip.com/managing-secrets-with-terraform-261276a0791f?source=rss-7a6e9f200238------2)
 - [Mastering Loops in Terraform](https://medium.com/@jullyachenchi8/mastering-loops-in-terraform-22bd49017633?source=rss-7a6e9f200238------2)
-- [Create reusable infrastructure with Terraform modules](https://medium.com/@jullyachenchi8/create-reusable-infrastructure-with-terraform-modules-db06d9dee365?source=rss-7a6e9f200238------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -5,7 +5,10 @@
 </h1>
 
 ## 👩🏽‍💻Cloud/DevOps Engineer | 👷🏽‍♀️Tech Community Builder
-Hi there, this is Jully. I have developed a knack and loving for cloud computing, specifically AWS and my way of learning is building, breaking, and rebuilding until I get it right or give up 😂(Whichever comes first). While I do so, I document my cloud journey and create spaces where others can learn with me. If it’s AWS, Terraform, or a challenge worth tackling, I’m in.
+
+**Hi there👋🏽, this is Jully**. 
+
+I have developed a knack and love for cloud computing, specifically AWS and my way of learning is building, breaking, and rebuilding until I get it right or give up 😂(Whichever comes first). While I do so, I document my cloud journey and create spaces where others can learn with me. If it’s AWS, Terraform, or a challenge worth tackling, I’m in.
 
 **🎯My Current Focus**
 - Working on the [Cloud Project Bootcamp](https://youtu.be/zA8guDqfv40?si=2zU_FcHKaIK5Ljdt)

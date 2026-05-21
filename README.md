@@ -61,11 +61,11 @@ See all my Certifications here: [Credly](https://www.credly.com/users/jully-ache
 
 ## ✍🏽 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy FastAPI to AWS EKS with Terraform and GitHub Actions](https://medium.com/@jullyachenchi8/how-to-deploy-fastapi-to-aws-eks-with-terraform-3c31bc712845?source=rss-7a6e9f200238------2)
 - [Amazon S3 Files — Making S3 buckets accessible as File Systems](https://medium.com/@jullyachenchi8/amazon-s3-files-making-s3-buckets-accessible-as-file-systems-d3ee55963bd6?source=rss-7a6e9f200238------2)
 - [How to Set Up User Auth in React with AWS Amplify and Cognito](https://aws.plainenglish.io/how-to-set-up-user-auth-in-react-with-aws-amplify-and-cognito-73c3072971fc?source=rss-7a6e9f200238------2)
 - [How to Containerize a Flask and React App with Docker](https://medium.com/@jullyachenchi8/how-to-containerize-a-flask-and-react-app-with-docker-1c4089922c9f?source=rss-7a6e9f200238------2)
 - [How to set up cost controls in AWS using the AWS CLI](https://aws.plainenglish.io/how-to-set-up-cost-controls-in-aws-using-the-aws-cli-b8feeda3d921?source=rss-7a6e9f200238------2)
-- [Step-by-Step Guide: Deploy a Scalable 3-Tier Architecture on AWS with Terraform Modules.](https://awstip.com/how-to-deploy-a-highly-available-3-tier-architecture-in-aws-using-terraform-8ac25fe3910b?source=rss-7a6e9f200238------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

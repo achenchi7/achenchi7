@@ -61,11 +61,11 @@ See all my Certifications here: [Credly](https://www.credly.com/users/jully-ache
 
 ## ✍🏽 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring in Terraform — A practical hands-on example.](https://medium.com/@jullyachenchi8/refactoring-in-terraform-a-practical-hands-on-example-801381adc70b?source=rss-7a6e9f200238------2)
 - [How to Deploy a React and Go application on AWS ECS and S3 using Terraform](https://medium.com/@jullyachenchi8/how-to-deploy-a-react-and-go-application-on-aws-ecs-and-s3-using-terraform-de4fc8932a77?source=rss-7a6e9f200238------2)
 - [How To Deploy FastAPI to AWS EKS with Terraform and GitHub Actions](https://medium.com/@jullyachenchi8/how-to-deploy-fastapi-to-aws-eks-with-terraform-3c31bc712845?source=rss-7a6e9f200238------2)
 - [Amazon S3 Files — Making S3 buckets accessible as File Systems](https://medium.com/@jullyachenchi8/amazon-s3-files-making-s3-buckets-accessible-as-file-systems-d3ee55963bd6?source=rss-7a6e9f200238------2)
 - [How to Set Up User Auth in React with AWS Amplify and Cognito](https://aws.plainenglish.io/how-to-set-up-user-auth-in-react-with-aws-amplify-and-cognito-73c3072971fc?source=rss-7a6e9f200238------2)
-- [How to Containerize a Flask and React App with Docker](https://medium.com/@jullyachenchi8/how-to-containerize-a-flask-and-react-app-with-docker-1c4089922c9f?source=rss-7a6e9f200238------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
